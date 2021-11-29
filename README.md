@@ -4,6 +4,10 @@ Medical Informatics Based Project Using Machine Learning.
 ## Clean Data Set Description
 **Data Set Name: FlaskCKD_CleanData**
 
+Raw Clean Data Link: https://raw.githubusercontent.com/Muhammad-Taufiq-Khan/Prognosis-Of-Long-Term-Renal-Disorder-Using-Machine-Learning/main/FlaskCKD_CleanData.csv
+
+Raw Data Link: https://raw.githubusercontent.com/Muhammad-Taufiq-Khan/CKD/main/ckd.csv
+
 Cleaning Level: Typo Fixed, Data Type Error Fixed, Categorical Feature Encoded, Renamed Properly
 
 ### Categorical Feature Encoding Details
