@@ -1,6 +1,12 @@
 # Prognosis-Of-Long-Term-Renal-Disorder-Using-Machine-Learning
 Medical Informatics Based Project Using Machine Learning.
 
+
+## Woring Method of the ML Model
+
+![CONFLUENCE 2022](https://user-images.githubusercontent.com/70132613/143943589-2759641c-c817-4351-90f1-0497ae1a15fc.png)
+
+
 ## Clean Data Set Description
 **Data Set Name: FlaskCKD_CleanData**
 
